@@ -1,6 +1,14 @@
 # Test Qdrant vector similarity search engine for Ukrainian
 
+Dataset:
+
 <img src="./demo.png" width="600">
+
+Search result:
+
+<img src="./search_result.jpeg" width="600">
+
+---
 
 Tested with Qdrant 1.10.0
 
