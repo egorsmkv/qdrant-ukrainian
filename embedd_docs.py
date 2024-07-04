@@ -5,7 +5,6 @@ Code adapted from https://colab.research.google.com/drive/1Bz8RSVHwnNDaNtDwotfPj
 import json
 
 from qdrant_client import models, QdrantClient
-from qdrant_client.http.models import NamedVector
 from sentence_transformers import SentenceTransformer
 
 # Config

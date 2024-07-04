@@ -17,7 +17,7 @@ Tested with Qdrant 1.10.0
 ### Create an env
 
 ```
-uv venv
+uv venv --python 3.12
 ```
 
 ### Activate the env
