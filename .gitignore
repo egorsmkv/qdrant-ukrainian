@@ -1,0 +1,5 @@
+.venv
+.ruff_cache
+
+documents.json
+recruitment-dataset-candidate-profiles-ukrainian.parquet
