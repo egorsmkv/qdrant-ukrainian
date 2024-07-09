@@ -29,7 +29,7 @@ source .venv/bin/activate
 ### Install libraries
 
 ```
-uv pip install qdrant-client sentence-transformers polars
+uv pip install qdrant-client sentence-transformers polars sentencepiece
 ```
 
 optional:
